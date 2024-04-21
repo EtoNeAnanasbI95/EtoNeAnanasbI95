@@ -11,7 +11,6 @@
 <p>I want to get an internship and get experience in commercial development, if possible I learn Go lang</p>
 <h3>Languages</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="90" width="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="90" width="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="90" width="90"/>
 </p>
