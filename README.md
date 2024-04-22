@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Eto_Ne_Ananas95</h1>
+<h1 align="center">Hello, I'm Eto_Ne_AnanasbI95</h1>
 <h2 align="center">My name is Dima Kirilov</h2>
 <h3>Contacts: </h3>
 <p align="left">
