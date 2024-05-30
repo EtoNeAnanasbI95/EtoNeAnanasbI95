@@ -3,7 +3,7 @@
 <h3>Contacts: </h3>
 <p align="left">
 <a href="https://t.me/BIG_zh0pa"><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/telegram.svg" height="70" width="70"/></a>
-<a href=""><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/discord.svg" height="70" width="70"/></a>
+<a href="https://discord.com/users/507229544013627392"><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/discord.svg" height="70" width="70"/></a>
 </p>
 <h3>About:</h3>
 <p>Dima — 17 yo. Мery diligent guy.</p>
