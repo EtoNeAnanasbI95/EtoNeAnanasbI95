@@ -4,6 +4,7 @@
 <p align="center">
 <a href="https://t.me/BIG_zh0pa"><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/telegram.svg" height="70" width="70"/></a>
 <a href="https://discord.com/users/507229544013627392"><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/discord.svg" height="70" width="70"/></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=EtoNeAnanasbI95&label=Profile%20views&color=e9c153&style=flat" alt="EtoNeAnanasbI95" /> </p>
 </p>
 <h3 align="center">About:</h3>
 <p align="center">Dima — 17 yo. Мery diligent guy.</p>
@@ -13,4 +14,5 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="90" width="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="90" width="90"/>
+  <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg" height="90" width="90"/>
 </p>
