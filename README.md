@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EtoNeAnanasbI95&label=Profile%20views&color=e9c153&style=flat" alt="EtoNeAnanasbI95" /> </p>
 </p>
 <h3 align="center">About:</h3>
-<p align="center">Dima — 17 yo. Мery diligent guy.</p>
+<p align="center">Dima — 18 yo. Мery diligent guy.</p>
 <p align="center">I'm studying at Plekhanov Moscow Instrument Engineering College.</p>
 <p align="center">I want to get an internship and get experience in commercial development, if possible I learn Go lang</p>
 <h3 align="center">Languages</h3>
