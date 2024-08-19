@@ -12,7 +12,8 @@
 <p align="center">I want to get an internship and get experience in commercial development, if possible I learn Go lang</p>
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="90" width="90"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="90" width="90"/>
-  <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg" height="90" width="90"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="90" width="90"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="90" width="90"/> -->
+<!--   <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg" height="90" width="90"/> -->
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" height="140"/>
 </p>
