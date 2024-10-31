@@ -74,7 +74,8 @@
 	</a>
 <a href="#">
         <img alt="SQL"
-             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" /> 
+             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"> 
+</a>
 </p>
 
 ### 💻 Software and tools
