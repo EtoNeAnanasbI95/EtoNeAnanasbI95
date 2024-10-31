@@ -1,11 +1,14 @@
+<div align="center">
+
 <h1 align="center">Hello, I'm Eto_Ne_AnanasbI95</h1>
 
 ```
-            __                       __               _     
-           / /   ___  ____ ______   / /_  ____ ______(_)____
-          / /   / _ \/ __ `/ ___/  / __ \/ __ `/ ___/ / ___/
-         / /___/  __/ /_/ / /     / /_/ / /_/ / /__/ (__  ) 
-        /_____/\___/\__,_/_/     /_.___/\__,_/\___/_/____/  
+    __                         __  __            __               _          
+   / /__  ____ __________     / /_/ /_  ___     / /_  ____ ______(_)_________
+  / / _ \/ __ `/ ___/ __ \   / __/ __ \/ _ \   / __ \/ __ `/ ___/ / ___/ ___/
+ / /  __/ /_/ / /  / / / /  / /_/ / / /  __/  / /_/ / /_/ (__  ) / /__(__  ) 
+/_/\___/\__,_/_/  /_/ /_/   \__/_/ /_/\___/  /_.___/\__,_/____/_/\___/____/  
+                                                                             
                                                     
 ```
 
@@ -27,6 +30,40 @@
 </p>
 
 ## Technology stack
+
+### 🧰 Frameworks and libraries
+
+<p>
+   <a href="#">
+        <img alt="Gin"
+             src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=61DAFB"/>
+	</a>
+    <a href="#">
+        <img alt="Slog"
+             src="https://img.shields.io/badge/Slog-010101?&style=for-the-badge"/>
+	</a>
+    <a href="#">
+        <img alt="dotnet"
+             src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+    <a href="#">
+        <img alt="ASP.net"
+             src="https://img.shields.io/badge/ASP.net-512BD4?style=for-the-badge&"></a>
+    <a href="#">
+        <img alt="WPF"
+             src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge"></a>
+    <a href="#">
+        <img alt="React"
+             src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=laravel&logoColor=61DAFB"/>
+	</a>
+    <a href="#">
+        <img alt="NPM"
+             src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Bootstrap"
+             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+	</a>
+   
+</p>
 
 ### 💻 Software and tools
 <p>
@@ -58,3 +95,4 @@
     <a href="#"><img alt="Macos" src="https://img.shields.io/badge/Macos-grey?style=for-the-badge&logo=Macos"></a>
     <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch%20linux-red?style=for-the-badge&logo=archlinux&logoColor=white"></a>
 </p>
+</div>
