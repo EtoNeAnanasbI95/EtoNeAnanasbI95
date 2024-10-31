@@ -65,6 +65,18 @@
    
 </p>
 
+### 🗄️ Databases
+
+<p>
+    <a href="#">
+        <img alt="PostgreSQL"
+             src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+	</a>
+<a href="#">
+        <img alt="SQL"
+             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" /> 
+</p>
+
 ### 💻 Software and tools
 <p>
     <a href="#">
