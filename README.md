@@ -34,33 +34,29 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-   <a href="#">
-        <img alt="Gin"
-             src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=61DAFB"/>
+    <a href="#">
+        <img alt="Gin" src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=61DAFB"/>
+    </a>
+    <a href="#">
+        <img alt="Slog" src="https://img.shields.io/badge/Slog-010101?&style=for-the-badge"/>
 	</a>
     <a href="#">
-        <img alt="Slog"
-             src="https://img.shields.io/badge/Slog-010101?&style=for-the-badge"/>
+        <img alt="dotnet" src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+        </a>
+    <a href="#">
+        <img alt="ASP.net" src="https://img.shields.io/badge/ASP.net-512BD4?style=for-the-badge&">
+    </a>
+    <a href="#">
+        <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge">
+    </a>
+    <a href="#">
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=laravel&logoColor=61DAFB"/>
 	</a>
     <a href="#">
-        <img alt="dotnet"
-             src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+        <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    </a>
     <a href="#">
-        <img alt="ASP.net"
-             src="https://img.shields.io/badge/ASP.net-512BD4?style=for-the-badge&"></a>
-    <a href="#">
-        <img alt="WPF"
-             src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge"></a>
-    <a href="#">
-        <img alt="React"
-             src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=laravel&logoColor=61DAFB"/>
-	</a>
-    <a href="#">
-        <img alt="NPM"
-             src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Bootstrap"
-             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 	</a>
    
 </p>
@@ -83,10 +79,10 @@
     <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-   <a href="#">
+    <a href="#">
         <img alt="Goland"
              src="https://img.shields.io/badge/Goland-blue?style=for-the-badge&logo=goland&logoColor=white"></a>
-   <a href="#">
+    <a href="#">
         <img alt="Rider"
              src="https://img.shields.io/badge/Rider-magenta?style=for-the-badge&logo=rider&logoColor=white"></a>
     <a href="#">
