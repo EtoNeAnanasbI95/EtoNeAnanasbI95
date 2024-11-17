@@ -50,7 +50,7 @@
         <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge">
     </a>
     <a href="#">
-        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=laravel&logoColor=61DAFB"/>
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	</a>
     <a href="#">
         <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
