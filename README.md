@@ -15,7 +15,7 @@
 <h2 align="center">My name is Dima Kirilov</h2>
 <h3 align="center">Contacts: </h3>
 <p align="center">
-<a href="https://t.me/BIG_zh0pa"><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/telegram.svg" height="70" width="70"/></a>
+<a href="https://t.me/NotKirilov"><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/telegram.svg" height="70" width="70"/></a>
 <a href="https://discord.com/users/507229544013627392"><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/discord.svg" height="70" width="70"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EtoNeAnanasbI95&label=Profile%20views&color=e9c153&style=flat" alt="EtoNeAnanasbI95" /> </p>
 </p>
