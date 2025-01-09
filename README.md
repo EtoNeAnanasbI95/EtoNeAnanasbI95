@@ -25,8 +25,8 @@
 <p align="center">I want to get an internship and get experience in commercial development, if possible I learn Go lang</p>
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="90" width="90"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" height="140"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="90" width="90"/>
 </p>
 
 ## Technology stack
@@ -36,6 +36,9 @@
 <p>
     <a href="#">
         <img alt="Gin" src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=61DAFB"/>
+    </a>
+    <a href="#">
+        <img alt="gRPC" src="https://img.shields.io/badge/gRPC-008ECF?style=for-the-badge"/>
     </a>
     <a href="#">
         <img alt="Slog" src="https://img.shields.io/badge/Slog-010101?&style=for-the-badge"/>
@@ -82,6 +85,9 @@
     <a href="#">
         <img alt="Goland"
              src="https://img.shields.io/badge/Goland-blue?style=for-the-badge&logo=goland&logoColor=white"></a>
+    <a href="#">
+        <img alt="neovim"
+             src="https://img.shields.io/badge/Neovim-green?style=for-the-badge&logo=neovim&logoColor=white"></a>
     <a href="#">
         <img alt="Rider"
              src="https://img.shields.io/badge/Rider-magenta?style=for-the-badge&logo=rider&logoColor=white"></a>
