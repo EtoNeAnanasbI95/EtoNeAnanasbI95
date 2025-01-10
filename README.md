@@ -22,7 +22,7 @@
 <h3 align="center">About:</h3>
 <p align="center">Dima — 18 yo. Мery diligent guy.</p>
 <p align="center">I'm studying at Plekhanov Moscow Instrument Engineering College.</p>
-<p align="center">I want to get an internship and get experience in commercial development, if possible I learn Go lang</p>
+<p align="center">I am an experienced GoLang developer, open to job offers</p>
 <h3 align="center">Languages</h3>
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" height="140"/>
