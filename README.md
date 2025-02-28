@@ -44,6 +44,9 @@
         <img alt="Slog" src="https://img.shields.io/badge/Slog-010101?&style=for-the-badge"/>
 	</a>
     <a href="#">
+        <img alt="Zerolog" src="https://img.shields.io/badge/zerolog-010101?&style=for-the-badge"/>
+	</a>
+    <a href="#">
         <img alt="dotnet" src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
         </a>
     <a href="#">
@@ -56,10 +59,16 @@
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	</a>
     <a href="#">
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+	</a>
+    <a href="#">
         <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
     </a>
     <a href="#">
         <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+	</a>
+    <a href="#">
+        <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 	</a>
    
 </p>
