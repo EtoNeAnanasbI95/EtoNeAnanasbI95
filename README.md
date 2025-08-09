@@ -20,7 +20,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EtoNeAnanasbI95&label=Profile%20views&color=e9c153&style=flat" alt="EtoNeAnanasbI95" /> </p>
 </p>
 <h3 align="center">About:</h3>
-<p align="center">Dima — 18 yo. Very diligent guy.</p>
+<p align="center">Dima — 19 yo. Very diligent guy.</p>
 <p align="center">I'm studying at Plekhanov Moscow Instrument Engineering College.</p>
 <p align="center">I am an experienced GoLang developer, open to job offers</p>
 <h3 align="center">Languages</h3>
